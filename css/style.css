@@ -318,6 +318,7 @@ h4 a {
 }
 #banners {
 	float:left;
+	margin-left: 13px;
 }
 .banner {
 	border:12px solid #fff;
